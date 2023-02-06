@@ -1,0 +1,68 @@
+#start {
+    font-size:30px;
+    color: #ffffff;
+    /* margin-left:100px; */
+    /* padding-top: 100px; */
+}
+
+#push{
+    font-size:30px;
+    color: #ffffff;
+    /* marginn-left:100px; */
+    padding-top: 140px;
+}             
+              
+.div1 {       
+    text-align: center;
+    font-family: arial;
+    font-size: 24px;
+    margin: auto;
+    width: 600px;
+    height: 337px;
+    /* line-height: 30px; */
+    /* border-radius: 10px; */
+    /* padding-top:30px; */
+    background-image: url("Resources/kokuban3_mini.jpg");
+}
+
+.div2 {
+    text-align: center;
+    font-family: arial;
+    font-size: 24px;
+    margin: auto;
+    width: 600px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.title {
+    text-align: center;
+    font-family: arial;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+#restart {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    margin: auto;
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    /* outline: 8px solid #b36602; */
+    background-color: #025a0a; 
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+#restart:hover {
+    background-color: #ffffff;
+    color: #025a0a;
+    
+}
+
+#result {
+    text-align: right;
+}
